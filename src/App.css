@@ -1,0 +1,15 @@
+header {
+  height: 5.1875rem;
+}
+
+a.button.active {
+  border: 1px solid var(--fore-color);
+}
+ h1{
+  text-align: center;
+ }
+
+.row{
+  display: flex;
+  justify-content: center;
+}
